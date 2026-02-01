@@ -4,3 +4,4 @@ plugins:
 title: Cruz
 description: Cruz's profile
 show_downloads: false
+baseurl: /
